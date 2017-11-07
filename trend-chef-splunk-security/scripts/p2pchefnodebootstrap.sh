@@ -3,7 +3,7 @@ keyName=$1
 orchestratorbaseurl=$2
 chefautourl=$3
 echo $keyName > /tmp/keyname.txt
-
+echo $chefautourl
 URL="http://$orchestratorbaseurl:33001/key/$keyName"
 echo $URL
 
