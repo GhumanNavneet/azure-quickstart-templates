@@ -123,10 +123,7 @@
             "value": 1
         },
         "baseUrl": {
-            "value": "https://raw.githubusercontent.com/sysgain/trend-chef-splunk-security/master"
-        },
-        "automateLicenseUri": {
-            "value": ""
+            "value": "https://raw.githubusercontent.com/wmhussain/azure-quickstart-templates/wmhussain-trend-chef-splunk-1/trend-chef-splunk-security/"
         }
     }
 }
